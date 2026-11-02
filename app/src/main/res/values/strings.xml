@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Daftar Postingan</string>
+    <string name="title_daftar_postingan">Daftar Postingan</string>
+    <string name="loading_posts">Memuat postingan…</string>
+    <string name="posts_loaded">%1$d postingan dimuat</string>
+    <string name="post_subtitle_format">Post #%1$d - User %2$d</string>
+    <string name="error_loading">Gagal memuat postingan. Periksa koneksi internet Anda.</string>
+    <string name="retry">Muat Ulang</string>
+    <string name="delete_confirm_title">Hapus postingan?</string>
+    <string name="delete_confirm_message">Postingan #%1$d akan dihapus.</string>
+    <string name="batal">BATAL</string>
+    <string name="hapus">HAPUS</string>
+    <string name="tutup">TUTUP</string>
+    <string name="detail_post_title">Detail Postingan</string>
+</resources>

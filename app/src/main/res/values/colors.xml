@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="header_background">#1E1F2C</color>
+    <color name="screen_background">#F4F6FA</color>
+    <color name="status_banner_bg">#EAF7EE</color>
+    <color name="status_text">#1E1F2C</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_stroke">#E1E6EF</color>
+    <color name="text_title">#1B1C28</color>
+    <color name="text_subtitle">#64748B</color>
+    <color name="button_delete">#C84B31</color>
+    <color name="button_cancel">#64748B</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
